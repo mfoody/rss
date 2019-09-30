@@ -1,0 +1,8 @@
+flask
+requests
+aws-wsgi
+boto3
+beautifulsoup4
+lxml
+schedule
+pytest
